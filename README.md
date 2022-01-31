@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michalsmolik
-- 👀 I’m interested in React, Vue
+- 👀 I’m interested in React, Vue, Java
 - 🌱 I’m currently learning React
 - 📫 How to reach me email: smolik.it@gmail.com
 
